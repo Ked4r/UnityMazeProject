@@ -1,0 +1,8 @@
+Already in project we use:
+Probuilder
+Progrid
+New Input System
+
+Nearest goals:
+Algorythms for procedural generated maze
+Start work with own shaders
